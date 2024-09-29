@@ -23,4 +23,15 @@ Follow these steps to set up the app locally:
 ### 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/income-prediction-app.git
-cd income-prediction-app
+```
+```bash
+cd repo
+```
+
+```bash
+pip install requirement.txt
+```
+
+```bash
+streamlit run webui.py
+```
