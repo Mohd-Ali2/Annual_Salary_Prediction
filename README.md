@@ -22,11 +22,11 @@ Follow these steps to set up the app locally:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/income-prediction-app.git
+git clone https://github.com/Mohd-Ali2/Annual_Salary_Prediction.git
 ```
 ### 2. Navigate to Repo:
 ```bash
-cd repo
+cd SAL_pred
 ```
 ### 3. Install Dependencies:
 ```bash
